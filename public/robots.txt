@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /public/
+Disallow: /dist/
+Crawl-delay: 5
+Sitemap: https://btcex.pro/sitemap.xml
